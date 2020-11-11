@@ -1,11 +1,4 @@
-Date,7/16/2018
-Spectrometer,FLMS02587
-Lamp SN,F1401
-Int. Time(usec),350000
-Average,0
-Boxcar,0
-Fiber (micron),7140
-,
+
 [uJoule/count],
 339.6194,0.00E+00
 340.0003,0.00E+00
